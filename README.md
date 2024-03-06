@@ -1,7 +1,7 @@
 ### Hi there, I'm Alif, Power Engineering Student 👋
 
-### About Me
-I'm a self learner. I learn about Data Science and Competitive Programming by enrolling to the Data Science courses, joining workshops and by surfing the internet for resources and informations. I'm still curretly learning to improve my skills and understanding about Data Science and Competitive Programming. I'm looking to involve in a data science projects esp in my field of study (power engineering). 
+### About Me 🌱
+I'm a self learner. I learn about Data Science and Competitive Programming by enrolling to the Data Science courses, joining workshops and by surfing the internet for resources and informations. I'm still curretly learning to improve my skills and understanding about Data Science and Competitive Programming. I'm looking to involve in a data science projects esp in my field of study (power engineering) and joining more competitive programming events/competitions. 
 
 <!--
 **Alifnizm/Alifnizm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
